@@ -1,0 +1,17 @@
+# framework
+fastapi
+# orm
+sqlalchemy
+# asgi
+# server 
+uvicorn
+# for define schema  validations
+pydantic
+# hashing algo for passwords
+passlib
+bcrypt
+# for generating jwt token
+python-jose
+#  sending files or a mix of text and files in an HTTP request.
+# Regular form encoding (application/x-www-form-urlencoded) can't handle files or binary data properly.
+python-multipart
